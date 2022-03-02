@@ -24,18 +24,20 @@ Flutter가 비교적 신생 기술이지만 이미 방대한 내용을 담고 �
 날짜 | 주제
 --- | ---
 03/05일 | Flutter 소개 (OT)
-03/12일 | [Dart 언어 1](https://gump.gitbook.io/a-tour-of-the-dart-language/)
-03/19일 | Dart 언어 2
-03/26일 | Dart 언어 3
+03/12일 | [Dart 언어 1](https://dart.dev/guides/language/language-tour#important-concepts) (Important concepts, Keywords, Variables, Built-in types)
+03/19일 | [Dart 언어 2](https://dart.dev/guides/language/language-tour#functions) (Functions, Operators, Control flow statements, Exceptions)
+03/26일 | [Dart 언어 3](https://dart.dev/guides/language/language-tour#classes) (Classes, Generics, Asynchrony support)
 04/09일 | Flutter 1
 04/16일 | Flutter 2
 04/23일 | Flutter 3
-05/07일 | Flutter 앱 핸즈온 1
-05/14일 | Flutter 앱 핸즈온 2
-05/21일 | Flutter 앱 핸즈온 3
-06/04일 | Flutter 웹 핸즈온 1
-06/11일 | Flutter 웹 핸즈온 2
-06/18일 | Flutter 웹 핸즈온 3
+05/07일 | Flutter 4
+05/14일 | Flutter 5
+05/21일 | Flutter 6
+06/04일 | Flutter 7
+06/11일 | Flutter 8
+06/18일 | Flutter 9
+|
+
 
 세부 내용은 계속 업데이트할 예정입니다.
 <br/><br/>
