@@ -23,7 +23,7 @@ Flutter가 비교적 신생 기술이지만 이미 방대한 내용을 담고 �
 
 날짜 | 주제
 --- | ---
-03/05일 | Flutter 소개 (OT)<br/>[Flutter 설치하기](flutter-install.md)
+03/05일 | [Flutter 소개 (OT)](https://velog.io/@kineo2k/Flutter-%EC%86%8C%EA%B0%9C)<br/>[Flutter 설치하기](flutter-install.md)
 03/12일 | [Dart 언어 1](https://dart.dev/guides/language/language-tour#important-concepts) (Important concepts, Keywords, Variables, Built-in types)
 03/19일 | [Dart 언어 2](https://dart.dev/guides/language/language-tour#functions) (Functions, Operators, Control flow statements, Exceptions)
 03/26일 | [Dart 언어 3](https://dart.dev/guides/language/language-tour#classes) (Classes, Generics, Asynchrony support)
