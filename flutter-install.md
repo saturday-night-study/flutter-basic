@@ -197,3 +197,9 @@ New Flutter Project를 통해 프로젝트를 생성할 수 있습니다.
 이후 Run 버튼을 누르면 선택한 기기에서 작성한 프로그램이 실행됩니다.
 
 ![Untitled](flutter-install/17.png)
+
+## 자동 코드 포맷팅 설정
+
+Android Studio > Preferences > Tools > File Watchers > Add 에서 아래와 같이 설정하면 소스코드를 저장할때 자동으로 코드 포맷팅이 적용됩니다.
+
+![Untitled](flutter-install/20.png)
