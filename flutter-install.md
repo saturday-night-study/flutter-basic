@@ -43,6 +43,14 @@ vi ~/.zshrc
 
 - PATH에 경로 추가 `/{설치경로}/flutter/bin`
 
+### Apple Silicon이 탑재된 Mac 
+
+[Apple Silicon이 탑재된 Mac](https://support.apple.com/ko-kr/HT211814)의 경우, Mac에 Rosetta를 설치해 줘야 합니다. 다음 명령어로 Rosetta를 설치해 줍니다.
+
+```bash
+softwareupdate --install-rosetta
+```
+
 ## flutter doctor
 
 플러터 설치를 돕는 명령어입니다. 명령어를 실행하면 아래와 같은 내용을을 확인할 수 있습니다.
